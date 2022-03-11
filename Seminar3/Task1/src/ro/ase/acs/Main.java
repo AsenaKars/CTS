@@ -4,7 +4,6 @@ import ro.ase.acs.contracts.Close;
 import ro.ase.acs.contracts.Create;
 import ro.ase.acs.contracts.Insert;
 import ro.ase.acs.contracts.Read;
-
 import java.lang.reflect.InvocationTargetException;
 import java.sql.Connection;
 import java.sql.SQLException;
